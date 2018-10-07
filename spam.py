@@ -55,7 +55,7 @@ def make_dataset(dictionary):
         if "spam" in email:
             labels.append(1)
         print (c)
-	#print(feature_set)
+	
         c = c - 1
         
     
