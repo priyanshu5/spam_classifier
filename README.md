@@ -1,6 +1,8 @@
 # spam_classifier
 
-## Building spam classifier using PYTHON and scikit-learn library
+## Building spam classifier using Python and scikit-learn library
+
+Building spam classifier using **Python** and **scikit-learn library**
 
 emails directory contains all emails ( spam and ham ) dataset used to train model.
 
