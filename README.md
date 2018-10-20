@@ -6,4 +6,4 @@ emails directory contains all emails ( spam and ham ) dataset used to train mode
 
 The worke has been done to JUPYTER NOTEBOOK and a copy of same is put in .py file.
 
-###For installation you should have Anaconda installed in your system
+### For installation you should have Anaconda installed in your system
